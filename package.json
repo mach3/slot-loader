@@ -1,0 +1,11 @@
+{
+  "name": "slot-loader",
+  "version": "1.0.0",
+  "description": "HTML based vue component loader",
+  "main": "slot-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mach3",
+  "license": "MIT"
+}
